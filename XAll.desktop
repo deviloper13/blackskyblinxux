@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=;
+Comment=Extract all files from device or image file
+Exec=sudo bash /usr/share/caine/pacchetti/scripts/xall_1.5.sh
+Hidden=false
+Icon=/usr/share/pixmaps/xall.png
+Name=XAll
+Terminal=false
+Type=Application
+Version=1.0
